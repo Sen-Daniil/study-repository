@@ -18,5 +18,5 @@ func CheckConnection() {
 		panic(err)
 	}
 
-	fmt.Println("Подключение к базе данных произошло успешно!")
+	fmt.Println("Подключение к dsfasdfsadfбазе данных произошло успешно!")
 }
